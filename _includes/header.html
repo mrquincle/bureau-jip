@@ -66,6 +66,9 @@
   <div class="container">
     <div class="row">
 
+{% if page.block-menu != false %}
+
+
       {% if page.url == '/index.html' %}
       <div class="logo span4 home">
       {% else %}
@@ -215,9 +218,13 @@
 
       {% endif %}
 
+{% else %}
+<br />
+{% endif %}
     </div>
   </div>
 </section>
+
 
 {% if page.url == '/index.html' %}
 <section id="bannerArea">
@@ -282,7 +289,7 @@
 <section id="breadcrumbs">
   <div class="container">
     <div class="row">
-      <div class="span12 breadcrumb">
+      <div class="span12 breadcrumb" style="opacity: 1;">
         <span xmlns:ib="http://rdf.data-vocabulary.org/#">
           <div class="ib-trail">
           <ul>
@@ -292,7 +299,7 @@
               </span>
             </li>
             <li class="ib-crumb ib-added menu-item ib-lastcrumb current-menu-item menu-item-type-post_type menu-item-object-page">
-              <a href="http://bureaujip.nl/begeleiding">Begeleiding</a>
+              <a href="http://bureaujip.nl/{{ page.url }}">{{ page.title }}</a>
             </li>
           </ul>
         </div>
@@ -301,5 +308,6 @@
     </div>
   </div>
 </section>
+
 {% endif %}
 

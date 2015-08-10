@@ -5,6 +5,7 @@ permalink: /contact/
 image: contact_page.jpg
 image2: contact_page2.jpg
 image-position: right
+block-menu: false
 ---
 
 This is the base Jekyll theme. You can find out more info contact customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
