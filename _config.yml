@@ -1,0 +1,23 @@
+# Site settings
+title: Bureau Jip
+email: info@bureaujip.nl
+description: >
+  Bureau Jip helpt kinderen in moeilijke situaties. Kinderen in de rouw,
+  kinderen in echtscheidingen, kinderen die faalangst hebben, kinderen die
+  gepest worden, en kinderen die nare dingen hebben mee gemaakt.
+baseurl: ""
+url: "http://bureaujip.nl"
+twitter_username: bureaujip
+github_username:  bureaujip
+
+year: 2015
+
+address_street_name: "Korteweegje 49"
+address_zip_code: "3247 BH"
+address_town: "Dirksland"
+
+  # Build settings
+markdown: kramdown
+
+gems: ['kramdown']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']

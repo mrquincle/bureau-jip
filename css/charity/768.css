@@ -1,0 +1,221 @@
+/* #Tablet (Portrait)
+================================================== */
+/* Note: Design for a width of 768px */
+
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+
+
+/*  ************************* GENERAL *********************/
+	html, body { min-width: 768px; }		
+
+	#main h1 {
+	  font-size: 22px;
+	  line-height: 28px;
+	  margin: 0 0 20px;
+	}
+	#main h2 {
+		font-size: 17px;
+		line-height: 24px;
+		margin-bottom: 20px;
+	}
+
+/*  *********************** HEADER ***************************/
+
+	#header .span6 > div[id*="text"],
+	#header .span6 > div[id*="text"] a { font-size: 14px; }
+
+	ul.social-networks li { margin-right: 5px; }
+
+	#logo { padding: 88px 35px; }
+		.home #logo { padding: 26px 35px; }
+
+
+	#topnav, nav.primary {
+	  height: 104px;
+	}
+
+	#topnav > li, #menu-right-menu > li, #menu-left-menu > li {
+	  height: 104px;
+	  margin: 0 0 20px 20px;
+	  width: 104px;
+	}
+	
+	#topnav > li > a span.page-title,
+	#menu-right-menu > li > a span.page-title,
+	#menu-left-menu > li > a span.page-title {
+		font-size: 17px;
+	}
+
+	.sf-menu ul, ul.sf-menu li li:hover ul,
+	ul.sf-menu li li.sfHover ul{
+		min-width: 81%;
+	}
+
+
+	.page-template-page-fullwidth_withRightSidebar-php #leftNavBlock,
+	.single #leftNavBlock,
+	.archive #leftNavBlock,
+	.error #leftNavBlock,
+	.search #leftNavBlock,
+	.blog #leftNavBlock,
+	.error404 #leftNavBlock,
+	.page-template-page-fullwidth_withLeftSidebar-php #leftNavBlock,
+	.page-template-page-fullwidth_withTwoSidebar-php #leftNavBlock,
+	.page-template-page-fullwidth_without_sidebar-php #leftNavBlock,
+	.page-template-page-Portfolio-php #leftNavBlock,
+	.page-template-page-blog-php #leftNavBlock,
+	.page-template-page-fullwidth_withRightSidebar-php #rightNavBlock,
+	.page-template-page-fullwidth_withLeftSidebar-php #rightNavBlock,
+	.page-template-page-fullwidth_withTwoSidebar-php #rightNavBlock,
+	.page-template-page-fullwidth_without_sidebar-php #rightNavBlock,
+	.page-template-page-Portfolio-php #rightNavBlock,
+	.page-template-page-blog-php #rightNavBlock,
+	.single #rightNavBlock,
+	.archive #rightNavBlock,
+	.error #rightNavBlock,
+	.search #rightNavBlock,
+	.blog #rightNavBlock,
+	.error404 #rightNavBlock {
+	  width: 228px;
+	}
+
+/*  ****************************** HOME CONTENT *****************/
+	
+	.metaslider {
+	/*   margin-bottom: 20px; */
+	  min-height: 228px;
+	}
+	
+	#sliderWrap .metaslider .slides img {
+	  height: 228px;
+	  width: 476px;
+	}
+
+	.bannerBox .flipText {
+	  height: 336px;
+	  width: 188px;
+	}
+	
+	#main .bannerBox .flipText .priceDescr {
+		font-size: 13px;
+		line-height: 18px;
+	}
+
+	.caroNav a {
+	  bottom: -10px;
+	}
+	
+	#primaryWrapContent ul.list li a {
+		font-size: 13px;
+	}
+
+
+	.recent-posts.staff {
+		  margin: 0 auto;
+		  width: 621px;
+		}
+
+/*  ****************************** SUBPAGE CONTENT ************************/
+
+
+	.wrap_content blockquote { width: 200px; }
+
+	.wpcf7-form .leftPart { width: 240px; }
+	.wpcf7-form .rightPart { width: 464px; }
+		.wrap_cf .wpcf7-form input[type="text"],
+		.wrap_cf .wpcf7-form input[type="email"],
+		.wrap_cf .wpcf7-form textarea {
+		  width: 95%;
+		}
+		
+
+	.single #primaryWrapContent .featured-thumbnail img,
+	.archive #primaryWrapContent .featured-thumbnail img,
+	.blog #primaryWrapContent .featured-thumbnail img,
+	.page-template-page-blog-php #primaryWrapContent .featured-thumbnail img,
+	.search #primaryWrapContent .featured-thumbnail img {
+	  width: auto;
+	}	
+	
+	.testimonial .featured-thumbnail img { width: auto !important; }
+
+	#sidebar #searchform input[type="text"] { width: 77%; }
+
+	
+	.list.numeric_list li { margin-bottom: 20px; }
+
+	.post-meta, .post-meta a, .post-meta time, .wrapMeta b a  { font-size: 10px; }	
+
+
+
+	/*  ************************* blog pages style ******************/
+
+	#commentform textarea { width: 410px; }
+		
+	/*  **********************************************/
+
+	.blog #content article.post-holder .post-content {
+	  padding-left: 270px;
+	}
+	
+	.wrap_cf .wpcf7-form input[type="text"],
+	.wrap_cf .wpcf7-form input[type="email"],
+	.wrap_cf .wpcf7-form input[type="number"],
+	.wrap_cf .wpcf7-form textarea {
+	  width: 90.5%;
+	}
+
+	.wrap_cf .wpcf7-form textarea {
+	  width: 94.5%;
+	}
+
+	.span3 #searchform input[type="text"] { width: 78%; }
+
+	#primaryWrapContent .clearfix.box img { max-width: 200px; }
+
+
+	#beforeFooter div[id*="text"] img {
+	  margin-top: -37px;
+	}
+	
+	#beforeFooter h1, #beforeFooter h1 span a[href*="callto"] {
+		font-size: 21px;
+		line-height: 27px;
+	}	
+	
+/*  ****************************** BEFORE FOOTER CONTENT *****************/
+
+	#beforeFooter { padding-top: 30px; }
+
+	#beforeFooter div[id*="text"]:first-child {
+		font-size: 32px;
+		line-height: 39px;
+	}
+	
+	#beforeFooter div[id*="text"] p {
+		font-size: 20px;
+		line-height: 27px;
+	}
+
+
+/*  ****************************** FOOTER ********************************/
+
+	#footer { font-size: 13px; }
+	
+	#footer a[href*="callto"] {
+		font-size: 22px;
+		line-height: 27px;
+	}
+
+	#footer div[id*="text"] + div[id*="text"] > * {
+	  margin-left: 32px;
+	}
+
+	#footer p {
+	  font-size: 11px;
+	}
+
+
+/*  **** END OF FILE ****/
+}
+

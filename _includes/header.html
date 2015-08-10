@@ -1,0 +1,305 @@
+<header id="header" class="clearfix">
+
+<div class="container">
+
+  <div class="row">
+    <div class="span4">
+      <div id="social_networks-2">
+        <ul class="social-networks">
+          <li>
+            <a rel="external" title="facebook" href="https://www.facebook.com/bureaujip">
+              <img src="{{ site.baseurl }}/assets/images/icons/facebook.png" alt="Icon for facebook">
+            </a>
+          </li>
+          <li>
+            <a rel="external" title="twitter" href="#">
+              <img src="{{ site.baseurl }}/assets/images/icons/twitter.png" alt="Icon for twitter">
+            </a>
+          </li>
+          <li>
+            <a rel="external" title="feed" href="#">
+              <img src="{{ site.baseurl }}/assets/images/icons/feed.png" alt="Icon for feed">
+            </a>
+          </li>
+          <li>
+            <a rel="external" title="youtube" href="#">
+              <img src="{{ site.baseurl }}/assets/images/icons/youtube.png" alt="Icon for youtube">
+            </a>
+          </li>
+          <li>
+            <a rel="external" title="google" href="#">
+              <img src="{{ site.baseurl }}/assets/images/icons/google.png" alt="Icon for google">
+            </a>
+          </li>
+          <li>
+            <a rel="external" title="pinterest" href="#">
+              <img src="{{ site.baseurl }}/assets/images/icons/pinterest.png" alt="Icon for pinterest">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="span6 offset2">
+
+      <div id="text-2">
+        <div class="textwidget">
+          <script type="text/javascript">/*<![CDATA[*/var a=new Array(".nl","jip","reau","bu","@","fo","in");document.write("<a href='mailto:");for(i=a.length-1;i>=0;i--){document.write(a[i])}document.write("?subject=Contact'>neem contact op</a>");/*]]>*/
+          </script>
+        </div>
+      </div>
+
+      <div id="search-3">
+        <form method="get" id="searchform" action="http://bureaujip.nl">
+          <input type="text" value="" name="s">
+          <input type="submit" value="Go!">
+        </form>
+      </div>
+
+    </div>
+
+  </div>
+
+</header>
+
+<section id="afterHeaderArea">
+  <div class="container">
+    <div class="row">
+
+      {% if page.url == '/index.html' %}
+      <div class="logo span4 home">
+      {% else %}
+      <div class="logo span4">
+      {% endif %}
+        <a href="{{ site.baseurl }}/" id="logo">
+          <img src="{{ site.baseurl }}/assets/images/logo.png" alt="Bureau Jip" title="{{ site.title }}">
+        </a>
+      </div>
+
+      <nav class="primary span8">
+        <div class="clearfix">
+          <ul id="topnav" class="sf-menu">
+            {% for p in site.pages %}
+              {% if p.title %}
+                {% if p.image-position == 'top' %}
+                <li id="menu-item-X" class="menu-item menu-item-type-post_type menu-item-object-page has-image">
+                  <a href="{{ p.url | prepend: site.baseurl }}">
+                    <div class="front">
+                    <img with="140" height="140" src="{{ site.baseurl }}/assets/images/{{ p.image }}"
+                        class="attachment-full wp-post-image" alt="Icon for page {{ p.title }}" title="{{ p.title }}" />
+                    <span class="page-title">{{ p.title }}</span>
+                    </div>
+                    <div class="back">
+                      <img class="imgOver" src="{{ sitebase.url }}/assets/images/{{ p.image2 }}" >
+                    </div>
+                    <img class="imgOut" src="{{ sitebase.url }}/assets/images/{{ p.image }}" >
+                  </a>
+                </li>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+      </nav>
+
+      {% if page.url == '/index.html' %}
+      <section id="sliderNavArea" class="home">
+      {% else %}
+      <section id="sliderNavArea" class="single">
+      {% endif %}
+        <section id="leftNavBlock" class="span2">
+          <div id="nav_menu-2">
+            <div class="menu-left-menu-container">
+              <ul id="menu-left-menu" class="menu">
+                {% for p in site.pages %}
+                {% if p.title %}
+                {% if p.image-position == 'left' %}
+                <li id="menu-item-X" class="menu-item menu-item-type-post_type menu-item-object-page has-image">
+                  <a href="{{ p.url | prepend: site.baseurl }}">
+                    <div class="front">
+                      <img with="140" height="140" src="{{ site.baseurl }}/assets/images/{{ p.image }}"
+                           class="attachment-full wp-post-image" alt="{{ p.title }}" title="{{ p.title }}" />
+                      <span class="page-title">{{ p.title }}</span>
+                    </div>
+                    <div class="back">
+                      <img class="imgOver" src="{{ sitebase.url }}/assets/images/{{ p.image2 }}" >
+                    </div>
+                      <img class="imgOut" src="{{ sitebase.url }}/assets/images/{{ p.image }}" >
+                  </a>
+                </li>
+                {% endif %}
+                {% endif %}
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        {% if page.url == '/index.html' %}
+        <section id="sliderWrap" class="span8">
+          <div id="text-3">
+            <div class="textwidget">
+              <div style="max-width: 770px;" class="metaslider metaslider-flex metaslider-46 ml-slider">
+                <div id="metaslider_container_46">
+                  <div id="metaslider_46">
+                    <ul class="slides">
+                      <li style="display: block; width: 100%;" class="slide-201 ms-image">
+                        <img src="{{ sitebase.url }}/assets/images/slider-img1.jpg" height="320" width="770" alt="" class="slider-46 slide-201" />
+                        <div class="caption-wrap">
+                          <div class="caption">
+                            <h3>Open je hart voor je kind</h3>
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <script type="text/javascript">
+                  var metaslider_46 = function($) {
+                    $('#metaslider_46').addClass('flexslider'); // theme/plugin conflict avoidance
+                    $('#metaslider_46').flexslider({
+                      slideshowSpeed:3000,
+                      animation:"slide",
+                      controlNav:true,
+                      directionNav:true,
+                      pauseOnHover:true,
+                      direction:"horizontal",
+                      reverse:false,
+                      animationSpeed:600,
+                      prevText:"&lt;",
+                      nextText:"&gt;",
+                      easing:"linear",
+                      slideshow:false
+                    });
+                  };
+                  var timer_metaslider_46 = function() {
+                    var slider = !window.jQuery ? window.setTimeout(timer_metaslider_46, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_46, 1) : metaslider_46(window.jQuery);
+                  };
+                  timer_metaslider_46();
+                </script>
+              </div>
+            </div>
+          </div>
+        </section>
+        {% endif %}
+
+        <section id="rightNavBlock" class="span2">
+          <div id="nav_menu-3">
+            <div class="menu-right-menu-container">
+              <ul id="menu-right-menu" class="menu">
+                {% for p in site.pages %}
+                  {% if p.title %}
+                    {% if p.image-position == 'right' %}
+                    <li id="menu-item-X" class="menu-item menu-item-type-post_type menu-item-object-page has-image">
+                      <a href="{{ p.url | prepend: site.baseurl }}">
+                        <div class="front">
+                        <img with="140" height="140" src="{{ site.baseurl }}/assets/images/{{ p.image }}"
+                            class="attachment-full wp-post-image" alt="{{ p.title }}" title="{{ p.title }}" />
+                        <span class="page-title">{{ p.title }}</span>
+                        </div>
+                        <div class="back">
+                          <img class="imgOver" src="{{ sitebase.url }}/assets/images/{{ p.image2 }}" >
+                        </div>
+                        <img class="imgOut" src="{{ sitebase.url }}/assets/images/{{ p.image }}" >
+                      </a>
+                    </li>
+                    {% endif %}
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </section>
+      </section>
+      {% if page.url == '/index.html' %}
+
+      {% endif %}
+
+    </div>
+  </div>
+</section>
+
+{% if page.url == '/index.html' %}
+<section id="bannerArea">
+  <div class="container">
+    <div class="row">
+    </div>
+  </div>
+</section>
+
+<section id="carouselArea">
+  <div class="container" style="opacity: 1">
+    <div class="row">
+      <div class="span12">
+        <div id="my_fredcarouselwidget-2">
+          <h2>Onderneem actie</h2>
+          <p class="title_descr">Lekker in je vel</p>
+          <div class="list_carousel">
+            <ul id="foo2">
+              <li>
+                <a class="imgHolder" href="http://bureaujip.nl/offer/supports-new-life/" title="new life">
+                  <img src="http://bureaujip.nl/wp-content/uploads/2014/05/caroItem1-102x103.jpg" alt="new life" />
+                </a>
+                <div class="slidertitle">
+                  <a href="http://bureaujip.nl/offer/supports-new-life/" rel="bookmark" title="Permanent Link to new life">new life</a>
+                </div>
+                <div class="excerpt">
+                  Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.
+                </div>
+                <a class="details" href="http://bureaujip.nl/offer/supports-new-life/" title="new life">read more</a>
+              </li>
+            </ul>
+          </div>
+          <div class="caroNav">
+            <a class="prev" id="prev2" href="#"><span>prev</span></a>
+            <a class="next" id="next2" href="#"><span>next</span></a>
+          </div>
+          <script type="text/javascript">
+            jQuery(function($) {
+              $('#foo2').carouFredSel({
+                prev: '#prev2',
+                next: '#next2',
+                scroll : {
+                  items           : 1,
+                  easing          : "easeOutCirc",
+                  duration        : 500,
+                  pauseOnHover    : true
+                }
+              });
+            });
+          </script>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% endif %}
+
+
+{% if page.url != '/index.html' %}
+
+<section id="breadcrumbs">
+  <div class="container">
+    <div class="row">
+      <div class="span12 breadcrumb">
+        <span xmlns:ib="http://rdf.data-vocabulary.org/#">
+          <div class="ib-trail">
+          <ul>
+            <li class="ib-crumb ib-added menu-item menu-item-home">
+              <span typeof="ib:Breadcrumb">
+                <a href="http://bureaujip.nl" rel="ib:url" property="ib:title">Welkom</a>
+              </span>
+            </li>
+            <li class="ib-crumb ib-added menu-item ib-lastcrumb current-menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="http://bureaujip.nl/begeleiding">Begeleiding</a>
+            </li>
+          </ul>
+        </div>
+        </span>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+

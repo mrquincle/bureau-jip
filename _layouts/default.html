@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  {% if page.url == '/index.html' %}
+  <body class="home">
+  {% else %}
+  <body>
+  {% endif %}
+
+    <div id="main">
+
+      {% include header.html %}
+
+      <section id="primaryWrapContent" class="clearfix">
+        <div class="page-content">
+          <div class="wrapper">
+            {{ content }}
+          </div>
+        </div>
+      </section>
+
+    </div>
+
+    {% if page.url == '/index.html' %}
+
+    <div class="container">
+      <div class="row">
+        <div class="span12">
+          <section id="beforeFooter">
+            <div id="text-4">
+              <div class="textwidget">Hier, bij  Bureau JIP<br/>
+                daar gebeurt het allemaal.
+              </div>
+            </div>
+            <div id="text-5">
+              <div class="textwidget"><p>Stuur een emailtje <br/>
+                of geef je op!</p>
+                <a href="/contact" class="donate">CONTACT</a></div>
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+
+    {% endif %}
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

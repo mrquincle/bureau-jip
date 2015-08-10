@@ -1,0 +1,42 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/twentyfifteen.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/charity/style.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/charity/normalize.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/charity/prettyPhoto.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/charity/camera.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/charity/480.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/charity/320.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/charity/768.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/charity/1300.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/charity/bootstrap.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/charity/bootstrap-responsive.css" | prepend: site.baseurl }}">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,300italic,700,700italic' rel='stylesheet' type='text/css'>
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+  <script type="text/javascript" src="{{ "/js/jquery-1.7.2.min.js?ver=1.7.2" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/modernizr.js?ver=2.0.6" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/superfish.js?ver=1.4.8" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/jquery.easing.1.3.js?ver=1.3" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/jquery.prettyPhoto.js?ver=3.1.3" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/jquery.tools.min.js?ver=1.2.8" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/jquery.loader.js?ver=1.0" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/swfobject.js?ver=2.2-20120417" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/jquery.cycle.all.js?ver=2.99" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/jquery.twitter.js?ver=1.0" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/jquery.flickrush.js?ver=1.0" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/si.files.js?ver=1.0" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/audiojs/audio.js?ver=1.0" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/flexie.js?ver=1.0.3" | prepend: site.baseurl }}"></script>
+  <script type="text/javascript" src="{{ "/js/custom.js?ver=1.0" | prepend: site.baseurl }}"></script>
+
+</head>

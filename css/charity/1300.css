@@ -1,0 +1,175 @@
+/* Note: Design for a width above 1281px */
+
+
+@media only screen and (min-width: 1200px) {
+
+
+
+/*  ************************* GENERAL *********************/
+	html,
+	body {
+		min-width:1200px;
+		}
+
+/*  ************************* HEADER *************************/
+	
+	#logo { padding: 148px 35px; }
+		.home #logo { padding: 48px 35px; }
+	
+	nav.primary, #topnav {
+		height: 170px;
+		margin-bottom: 10px;
+	}
+	#topnav > li, #menu-right-menu > li, #menu-left-menu > li {
+	  height: 170px;
+	  margin: 0 0 30px 30px;
+	  width: 170px;
+	}
+
+	.sf-menu ul, ul.sf-menu li li:hover ul,
+	ul.sf-menu li li.sfHover ul{
+		min-width: 88%;
+	}
+
+/*  ****************************** HOME CONTENT *****************/
+
+	.page-template-page-fullwidth_withRightSidebar-php #leftNavBlock,
+	.single #leftNavBlock,
+	.archive #leftNavBlock,
+	.error #leftNavBlock,
+	.search #leftNavBlock,
+	.blog #leftNavBlock,
+	.error404 #leftNavBlock,
+	.page-template-page-fullwidth_withLeftSidebar-php #leftNavBlock,
+	.page-template-page-fullwidth_withTwoSidebar-php #leftNavBlock,
+	.page-template-page-fullwidth_without_sidebar-php #leftNavBlock,
+	.page-template-page-Portfolio-php #leftNavBlock,
+	.page-template-page-blog-php #leftNavBlock,
+	.page-template-page-fullwidth_withRightSidebar-php #rightNavBlock,
+	.page-template-page-fullwidth_withLeftSidebar-php #rightNavBlock,
+	.page-template-page-fullwidth_withTwoSidebar-php #rightNavBlock,
+	.page-template-page-fullwidth_without_sidebar-php #rightNavBlock,
+	.page-template-page-Portfolio-php #rightNavBlock,
+	.page-template-page-blog-php #rightNavBlock,
+	.single #rightNavBlock,
+	.archive #rightNavBlock,
+	.error #rightNavBlock,
+	.search #rightNavBlock,
+	.blog #rightNavBlock,
+	.error404 #rightNavBlock {
+	  width: 370px;
+	}
+		#leftNavBlock li + li , #rightNavBlock li + li {
+			margin-left: 30px !important;
+		}
+
+		.home #leftNavBlock li + li , .home #rightNavBlock li + li { margin-left: 0 !important; }
+
+
+		
+	#sliderWrap .metaslider .slides img {
+	  height: 360px;
+	  width: 770px;
+	}
+
+	.bannerBox .flipText {
+	  height: 350px;
+	  width: 330px;
+	}
+
+	
+	.list_carousel {  height: 310px !important; }
+	.caroNav a {
+	  bottom: auto;
+	  top: 45%;
+	  width: 50px;
+	  height: 84px;
+	}
+		.caroNav a.next {
+		  margin-right: -68px;
+		  right: 0;
+		}
+		.caroNav a.prev {
+		  margin-left: -68px;
+		  left: 0;
+		}
+
+
+		.caroNav a.prev span {
+		  background: url("../images/bg_caroNav1.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+		}
+			.caroNav a.prev:hover span {
+				background-position: 0 -97px;
+			}
+	
+		.caroNav a.next span {
+		  background: url("../images/bg_caroNav1.jpg") no-repeat scroll -102px 0 rgba(0, 0, 0, 0);
+		}
+			.caroNav a.next:hover span {
+				background-position: -102px -97px;
+			}
+
+
+		.recent-posts.staff {
+		  margin: 0 auto;
+		  width: 950px;
+		}
+		#wrapCustCaro .caroNav a { top: 33%; }
+		#wrapCustCaro .caroufredsel_wrapper, #wrapCustCaro .list_carousel {
+		  height: 386px !important;
+		}
+
+
+		#wrapCustCaro .caroNav a.prev {
+		  left: 0;
+		  margin-left: 14px;
+		}
+		#wrapCustCaro .caroNav a.next {
+		  right: 0;
+		  margin-right: 14px;
+		}
+
+/*  ****************************** END OF HOME CONTENT *****************/
+
+
+/*  ****************************** SUBPAGE CONTENT ************************/
+	
+	#sidebar #searchform input[type="text"] { width: 87%; }
+
+	.wrap_content blockquote { width: 366px; }
+
+
+	#breadcrumbs .breadcrumb { padding: 17px 0 17px 17px; }		
+				
+	/*  ************************* blog pages style ******************/
+
+	#commentform textarea {
+	  width: 719px;
+	}
+	
+	/*  **************************************************/
+		
+	.wrap_cf.main .wpcf7-form input[type="text"],
+	.wrap_cf.main .wpcf7-form input[type="email"],
+	.wrap_cf.main .wpcf7-form textarea {
+	  margin-left: 0;
+	  width: 96% !important;
+	}	
+
+	.btnSubmit { clear: both; }
+	
+
+		.span3 #searchform input[type="text"] { width: 86%; }
+
+
+
+/*  ****** END OF FILE *****/
+}
+
+
+@media screen and (min-width: 1281px) and (-webkit-min-device-pixel-ratio:0) 
+{  
+	
+}
+
+
