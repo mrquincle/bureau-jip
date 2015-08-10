@@ -7,28 +7,32 @@ layout: default
       <div class="span3"><ul class="list">
           {% for p in site.pages %}
           {% if p.title %}
-          <li><a href="{{ p.url | prepend: site.baseurl }}">p.title</a></li>
+          <li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
           {% endif %}
           {% endfor %}
-        </ul></div>
-        <div class="span9"><h1>BEGELEIDING</h1>
-          <p><img src="/assets/images/img1.jpg" alt="img1" width="207" height="186" class="alignleft size-full wp-image-63" />Bureau Jip organiseert voor kinderen die sommige dingen lastig vinden, begeleiding.<br />
-          Daarnaast kunnen ook ouders de ondersteuning krijgen die zij nodig hebben.</p>
-          <p><a class="read" href="#">lees meer</a><br /></div>
+        </ul>
+      </div>
+      <div class="span9">
+        <div class="wrap_content">
+          <div class="page type-page status-publish hentry">
+            {{ content }}
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
 
 <!--
-<div class="post">
+  <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+  <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
   <article class="post-content">
-    {{ content }}
+  {{ content }}
   </article>
 
-</div>
+  </div>
 -->

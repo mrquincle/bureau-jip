@@ -63,7 +63,7 @@ body {
     margin: 0;
 }
 
-/* 
+/*
  * Addresses font-family inconsistency between 'textarea' and other form elements.
  */
 
@@ -136,7 +136,7 @@ h1,h2,h3,h4,h5,h6{
 		background: none;
 	}
 
-	
+
 /*
  * Addresses styling not present in IE7/8/9, S5, Chrome
  */
@@ -150,8 +150,8 @@ abbr[title] {
  * Addresses style set to 'bolder' in FF3/4, S4/5, Chrome
 */
 
-b, 
-strong { 
+b,
+strong {
     font-weight:700;
 }
 
@@ -275,7 +275,7 @@ ol {
 ul {
 	list-style-type:none;
 	padding:0;
-	margin:0 0 1.5em 0;
+	margin:1em 0 1.5em 0;
 	}
 	ul li {
 		vertical-align:top;
@@ -375,8 +375,8 @@ input {
  */
 
 button,
-input[type="button"], 
-input[type="reset"], 
+input[type="button"],
+input[type="reset"],
 input[type="submit"] {
     cursor: pointer; /* 1 */
     -webkit-appearance: button; /* 2 */
@@ -438,7 +438,7 @@ textarea {
    Tables
    ========================================================================== */
 
-/* 
+/*
  * Remove most spacing between table cells
  */
 

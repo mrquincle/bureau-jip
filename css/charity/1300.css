@@ -12,10 +12,10 @@
 		}
 
 /*  ************************* HEADER *************************/
-	
+
 	#logo { padding: 148px 35px; }
 		.home #logo { padding: 48px 35px; }
-	
+
 	nav.primary, #topnav {
 		height: 170px;
 		margin-bottom: 10px;
@@ -66,7 +66,7 @@
 		.home #leftNavBlock li + li , .home #rightNavBlock li + li { margin-left: 0 !important; }
 
 
-		
+
 	#sliderWrap .metaslider .slides img {
 	  height: 360px;
 	  width: 770px;
@@ -77,7 +77,7 @@
 	  width: 330px;
 	}
 
-	
+
 	.list_carousel {  height: 310px !important; }
 	.caroNav a {
 	  bottom: auto;
@@ -96,14 +96,14 @@
 
 
 		.caroNav a.prev span {
-		  background: url("../images/bg_caroNav1.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+		  background: url("/assets/images/bg_caroNav1.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
 		}
 			.caroNav a.prev:hover span {
 				background-position: 0 -97px;
 			}
-	
+
 		.caroNav a.next span {
-		  background: url("../images/bg_caroNav1.jpg") no-repeat scroll -102px 0 rgba(0, 0, 0, 0);
+		  background: url("/assets/images/bg_caroNav1.jpg") no-repeat scroll -102px 0 rgba(0, 0, 0, 0);
 		}
 			.caroNav a.next:hover span {
 				background-position: -102px -97px;
@@ -133,31 +133,31 @@
 
 
 /*  ****************************** SUBPAGE CONTENT ************************/
-	
+
 	#sidebar #searchform input[type="text"] { width: 87%; }
 
 	.wrap_content blockquote { width: 366px; }
 
 
-	#breadcrumbs .breadcrumb { padding: 17px 0 17px 17px; }		
-				
+	#breadcrumbs .breadcrumb { padding: 17px 0 17px 17px; }
+
 	/*  ************************* blog pages style ******************/
 
 	#commentform textarea {
 	  width: 719px;
 	}
-	
+
 	/*  **************************************************/
-		
+
 	.wrap_cf.main .wpcf7-form input[type="text"],
 	.wrap_cf.main .wpcf7-form input[type="email"],
 	.wrap_cf.main .wpcf7-form textarea {
 	  margin-left: 0;
 	  width: 96% !important;
-	}	
+	}
 
 	.btnSubmit { clear: both; }
-	
+
 
 		.span3 #searchform input[type="text"] { width: 86%; }
 
@@ -167,9 +167,9 @@
 }
 
 
-@media screen and (min-width: 1281px) and (-webkit-min-device-pixel-ratio:0) 
-{  
-	
+@media screen and (min-width: 1281px) and (-webkit-min-device-pixel-ratio:0)
+{
+
 }
 
 

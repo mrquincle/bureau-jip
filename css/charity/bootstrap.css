@@ -815,6 +815,10 @@ ol {
   margin: 0 0 0 0;
 }
 
+.page ul, ol {
+  margin: 0 0 1em 2em;
+}
+
 ul ul,
 ul ol,
 ol ol,
