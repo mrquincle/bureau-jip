@@ -9,7 +9,9 @@ layout: default
       <div class="span3"><ul class="list">
           {% for p in site.pages %}
           {% if p.title %}
+          {% if p.display-in-menu != false %}
           <li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
+          {% endif %}
           {% endif %}
           {% endfor %}
         </ul>
