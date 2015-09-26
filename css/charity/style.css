@@ -115,7 +115,8 @@ dl dd {
 #main h2 {
   color: #2A3136;
   font: bold 24px/30px "Open Sans",sans-serif;
-  margin-bottom: 27px;
+  margin-top: 27px;
+  margin-bottom: 15px;
   text-align: left;
   text-transform: uppercase;
   position: relative;
@@ -255,8 +256,8 @@ ul.social-networks li img {
 
 
 #primaryWrapContent a {
-  color: #ccc;
-  font: bold 12px/18px Arial;
+  color: #0088cc;
+/*  font: bold 12px/18px Arial; */
   text-decoration: underline;
   outline:none !important;
 }

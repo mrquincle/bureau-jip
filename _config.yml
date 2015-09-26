@@ -1,3 +1,6 @@
+# Blog settings
+permalink: /blog/:year/:month/:day/:title
+
 # Site settings
 title: Bureau Jip
 email: info@bureaujip.nl

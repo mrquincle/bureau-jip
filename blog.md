@@ -7,8 +7,12 @@ image2: blog_page2.jpg
 image-position: right
 ---
 
-This is the base Jekyll theme. You can find out more info blog customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<section class="gray mini-wrap">
+        <div class="container">
+                <div class="row">
+                        {% assign posts_collate = site.posts %}
+                        {% include JB/posts_collate %}
+                </div>
+        </div>
+</section>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
