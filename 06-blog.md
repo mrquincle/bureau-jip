@@ -13,6 +13,6 @@ In de volgende blog posts zijn bepaalde leuke gebeurtenissen bescheven of wordt 
 
 <div>
 {% assign posts_collate = site.posts %}
-{% include jb/posts_collate %}
+{% include jb/posts_collate.html %}
 </div>
 
