@@ -1,5 +1,5 @@
 {% comment %}<!--
-Collate_posts helper. Collated posts by year and month.
+Collate_posts helper. Collated posts by year and month. Can be used for a summary.
 Usage:
   1) assign the 'posts_collate' variable to a valid array of posts.
   2) include JB/posts_collate
