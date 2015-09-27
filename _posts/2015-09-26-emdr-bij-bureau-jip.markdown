@@ -14,7 +14,6 @@ Veel kinderen vinden het raar, dat ze opeens zo anders reageren. Maar dat komt a
 EMDR is een behandeling speciaal voor kinderen zoals jij. Daarvoor ga je naar een therapeut. EMDR werkt goed, dat weten we. Hoe snel het werkt, dat verschilt. Als je één keer iets hebt meegemaakt, ben je meestal sneller klaar dan een kind dat lange tijd is bedreigd of lastiggevallen. Dat is logisch. Maar ook dan kan EMDR je goed helpen.
 
 
-{% youtube eEOHisK6IPM %}
 
 Joost, 11 jaar:
 
