@@ -29,6 +29,6 @@ Door onze begeleiding gaan de kinderen z&eacute;lf aan de slag. Ze gaan ervaren 
 
 Samen met de ouders kijken we wat goed is voor hun kind. Medewerking van de ouders is onmisbaar. Ouders kennen hun kind als geen ander. Daarom hebben we graag intens contact met de ouders: een intakegesprek vooraf, en daarna regelmatig oudergesprekken. Na elke sessie hebben we een kort overleg met alle ouders.
 
-Kosten voor een traject: 60.per sessie.
+Kosten voor een traject: 60. per sessie.
 
-Het intakegesprek kost 60.
+
