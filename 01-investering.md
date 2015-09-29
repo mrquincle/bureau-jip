@@ -1,4 +1,4 @@
----
+ ---
 layout: page
 title: Investering & Vergoeding
 permalink: /investering/
