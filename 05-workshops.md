@@ -8,3 +8,10 @@ image-position: left
 ---
 
 # Workshops
+
+## Voor ouders
+## Voor leerkrachten
+## Voor jeugdleiders van (sport)verenigingen
+## Voor kerken
+## Hartcoherentie
+## Schrijf je blij
