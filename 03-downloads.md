@@ -7,14 +7,14 @@ image2: downloads_page2.jpg
 image-position: top
 ---
 
-## Hier kan je bestanden downloaden.behandelovereenkomst
+# Hier kan je bestanden downloaden.
+
 ## coulancebrief
 ## wat is hartcoherentie 
 ## wat te doen bij examenstress
 ## wat is EMDR
 ## wat is K.I.E.S
-
 ## zelfvertrouwen
-##behandelovereenkomst
+## behandelovereenkomst
 
 
