@@ -13,8 +13,12 @@
 
 /*  ************************* HEADER *************************/
 
-	#logo { padding: 148px 35px; }
-		.home #logo { padding: 48px 35px; }
+	#logo { padding: 35px 35px; }
+
+	.home #logo {
+		padding: 15px 120px;
+		width: 140px;
+	}
 
 	nav.primary, #topnav {
 		height: 170px;
