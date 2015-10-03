@@ -1034,7 +1034,7 @@ html>/**/body #menu-left-menu > li:hover > a .back { z-index: 2; }
 
 
 #primaryWrapContent img {
-  width: 94.6%;
+/*  width: 94.6%; */
   height: auto;
   padding: 0 !important;
   border: 6px solid #fff;

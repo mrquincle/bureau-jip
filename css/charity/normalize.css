@@ -86,7 +86,7 @@ img {
 		vertical-align:top;
     border: 0; /* 1 */
     -ms-interpolation-mode: bicubic; /* 2 */
-    width: 97%;
+/*    width: 97%; */
 }
 
 embed,

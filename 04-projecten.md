@@ -10,7 +10,7 @@ image-position: left
 ## Glossy
 In maart 2015 was het zo ver. De eerste exemplaren van de glossy gleden van de pers... Downloaden?
 
-![Glossy downloaden](/assets/images/voorkant_glossy.jpg)
+[![Glossy downloaden](/assets/images/voorkant_glossy.jpg)](http://bureaujip.us10.list-manage.com/subscribe?u=238c48afeb81d59ef080df385&id=0c296f472e)
 
 ## Zanseverius
 In dit boekje krijgt het 'gescheiden kind' de boodschap: Het is soms zo lastig om van het ene huis naar het andere te gaan.
@@ -30,5 +30,6 @@ Doe mee en bestel een aap, die jou allerlei verhalen vertelt. Zie de blog van ..
 Ook in Albanië spelen de kinderen met grote mens-poppen en leren alles over gevoelens...foto
 
 ## Blijf met je pootjes van me af
+
 Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn.
 Vrienden van JIP... foto
