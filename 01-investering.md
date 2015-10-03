@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Investering & Vergoeding
 permalink: /investering/
@@ -6,12 +6,6 @@ image: investering_page.jpg
 image2: investering_page2.jpg
 image-position: top
 ---
-
-This is the base Jekyll theme. You can find out more info investering customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
 ## Zorgverzekeraars
 
@@ -36,12 +30,12 @@ Informeer bij uw eigen gemeente naar de mogelijkheden om tegemoetkoming in de ko
 
 ## Investering
 
-Elke sessie kost € 60,-. Duurt het gesprek langer dan 75 minuten dan krijgt u een dubbele factuur. 
+Elke sessie kost € 60,-. Duurt het gesprek langer dan 75 minuten dan krijgt u een dubbele factuur.
 
 Er zijn verschillende ziektenkostenverzekeraars die ook dit gesprek vergoeden.
 
 
-Als u een afspraak ruim een dag van tevoren afzegt, zijn de kosten van het gesprek niet voor u.     
+Als u een afspraak ruim een dag van tevoren afzegt, zijn de kosten van het gesprek niet voor u.
 
 Zegt u later af, om welke redenen dan ook, krijgt u van ons een factuur.
 

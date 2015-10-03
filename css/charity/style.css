@@ -16,7 +16,7 @@ body {
 body{
   background: #f1f1f1;
   color: #2a3136;
-  font: 14px/22px 'Open Sans', sans-serif;
+  font: 18px/26px 'Open Sans', sans-serif;
   font-family: 'Open Sans', serif !important;
   /* position:relative; */
   overflow: hidden;
@@ -397,7 +397,7 @@ text-decoration: none;
 /*  *********************************** PARAGRAPH *************************/
 
 p {
-  font: 14px/22px 'Open Sans', sans-serif;
+  font: 18px/26px 'Open Sans', sans-serif;
   color: #2a3136;
   margin: 0 0 16px 0;
 }
@@ -409,7 +409,13 @@ p span {
   color: #fff;
 }
 
-
+/* list item */
+li {
+  font: 16px/24px 'Open Sans', sans-serif;
+  color: #2a3136;
+  margin: 0 0 16px 0;
+  line-height: 24px !important;
+}
 /*  *********************************** END OF PARAGRAPH *************************/
 
 
@@ -442,7 +448,7 @@ p span {
 }
 #breadcrumbs .breadcrumb li a {
   color: #170f09;
-  font: 300 14px/20px 'Open Sans', sans-serif;
+  font: 300 18px/26px 'Open Sans', sans-serif;
   text-decoration: none;
   text-transform: capitalize;
 }
