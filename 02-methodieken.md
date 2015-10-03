@@ -9,7 +9,7 @@ image-position: top
 
 # Methodieken
 
-Bureau Jip hanteert verschillende methodieken om met bepaalde ervaringen om te kunnen gaan. EMDR (Eye Movement Desensitization and Reprocessing), CGT (Cognitieve gedragstherapie), neurofeedback, KIES, axenroos, Helende verhalen, de [MatriXmethode](http://matrixmethodeinstituut.nl/) en Vriendenprogramma. Voor de volledigheid lichten we een aantal van deze methodes toe:
+Bureau JIP hanteert verschillende methodieken om met bepaalde ervaringen om te kunnen gaan. EMDR (Eye Movement Desensitization and Reprocessing), CGT (Cognitieve gedragstherapie), neurofeedback, KIES, axenroos, Helende verhalen, de [MatriXmethode](http://matrixmethodeinstituut.nl/) en Vriendenprogramma. Voor de volledigheid lichten we een aantal van deze methodes toe:
 
 ## EMDR
 
@@ -17,7 +17,7 @@ EMDR (Eye Movement Densitization and Reprocessing) is een psychotherapie, ontwik
 
 ## Neurofeedback
 
-Neurofeedback is aanbevolen door de American Society of Pediatrics voor kinderen met ADHD. Er worden sensoren op het hoofd geplaatst net als met een EEG scan (electroencephalography). De metingen worden vervolgens zichtbaar of hoorbaar gemaakt. Helaas is het mechanisme achter neurofeedback niet wetenschappelijk vastgesteld. Een mogelijk alternatief voor neurofeedback is CGT (cognitieve gedragstherapie, eveneens te volgen bij Bureau Jip).
+Neurofeedback is aanbevolen door de American Society of Pediatrics voor kinderen met ADHD. Er worden sensoren op het hoofd geplaatst net als met een EEG scan (electroencephalography). De metingen worden vervolgens zichtbaar of hoorbaar gemaakt. Helaas is het mechanisme achter neurofeedback niet wetenschappelijk vastgesteld. Een mogelijk alternatief voor neurofeedback is CGT (cognitieve gedragstherapie, eveneens te volgen bij Bureau JIP).
 
 ## KIES
 
