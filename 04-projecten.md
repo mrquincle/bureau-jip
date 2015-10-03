@@ -13,7 +13,7 @@ In maart 2015 was het zo ver. De eerste exemplaren van de glossy gleden van de p
 [![Glossy downloaden](/assets/images/voorkant_glossy.jpg)](http://bureaujip.us10.list-manage.com/subscribe?u=238c48afeb81d59ef080df385&id=0c296f472e)
 
 ## Zanseverius
-In dit boekje krijgt het 'gescheiden kind' de boodschap: Het is soms zo lastig om van het ene huis naar het andere te gaan.
+In dit boekje krijgt het `gescheiden kind' de boodschap: Het is soms zo lastig om van het ene huis naar het andere te gaan.
 En jij blijft oké. Bestel het bij Teachtools, of bij je boekhandel in de buurt.
 
 ## Biebhuusje

@@ -21,6 +21,10 @@ Om een plaatje met een link te gebruiken:
 
     [![omschrijving link](/assets/images/plaatje.extensie)](http://link)
 
+Om quotes te gebruiken rondom een tekst, gebruik geen aanhalingstekens, maar begin met een accent grave:
+
+    `tekst'
+
 ## Lokaties
 
 Er zijn eigenlijk maar twee lokaties om te onthouden. Stop plaatjes in de map `/assets/images` en documenten in de map `/assets/downloads`.
