@@ -44,7 +44,7 @@ Op ouderavonden verzorgen wij graag een lezing over faalangst en echtscheiding, 
 
 *Tarief:  363 per workshop, exc. reiskosten. Elke ouderavond wordt gegeven door twee personen.*
 
-##
+ 
 
 ## Schrijf je blij
 
