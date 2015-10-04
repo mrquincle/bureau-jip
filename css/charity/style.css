@@ -532,9 +532,12 @@ li {
   background: #2a3136;
   padding: 35px 35px;
 }
+
 .home #logo {
-  padding: 33px 35px;
+  padding: 15px 95px;
+  height: 110px;
 }
+
 #footer #logo {
   background: none;
   padding: 0;

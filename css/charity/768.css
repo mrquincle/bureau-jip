@@ -6,7 +6,7 @@
 
 
 /*  ************************* GENERAL *********************/
-	html, body { min-width: 768px; }		
+	html, body { min-width: 768px; }
 
 	#main h1 {
 	  font-size: 22px;
@@ -26,8 +26,12 @@
 
 	ul.social-networks li { margin-right: 5px; }
 
-	#logo { padding: 88px 35px; }
-		.home #logo { padding: 26px 35px; }
+	#logo { padding: 35px 35px; }
+
+	.home #logo {
+		padding: 15px 75px;
+		height: 75px;
+	}
 
 
 	#topnav, nav.primary {
@@ -39,7 +43,7 @@
 	  margin: 0 0 20px 20px;
 	  width: 104px;
 	}
-	
+
 	#topnav > li > a span.page-title,
 	#menu-right-menu > li > a span.page-title,
 	#menu-left-menu > li > a span.page-title {
@@ -80,12 +84,17 @@
 	}
 
 /*  ****************************** HOME CONTENT *****************/
-	
+
+	#sliderWrap .slides iframe {
+	  height: 228px;
+	  width: 476px;
+	}
+
 	.metaslider {
 	/*   margin-bottom: 20px; */
 	  min-height: 228px;
 	}
-	
+
 	#sliderWrap .metaslider .slides img {
 	  height: 228px;
 	  width: 476px;
@@ -95,7 +104,7 @@
 	  height: 336px;
 	  width: 188px;
 	}
-	
+
 	#main .bannerBox .flipText .priceDescr {
 		font-size: 13px;
 		line-height: 18px;
@@ -104,7 +113,7 @@
 	.caroNav a {
 	  bottom: -10px;
 	}
-	
+
 	#primaryWrapContent ul.list li a {
 		font-size: 13px;
 	}
@@ -127,7 +136,7 @@
 		.wrap_cf .wpcf7-form textarea {
 		  width: 95%;
 		}
-		
+
 
 	.single #primaryWrapContent .featured-thumbnail img,
 	.archive #primaryWrapContent .featured-thumbnail img,
@@ -135,29 +144,29 @@
 	.page-template-page-blog-php #primaryWrapContent .featured-thumbnail img,
 	.search #primaryWrapContent .featured-thumbnail img {
 	  width: auto;
-	}	
-	
+	}
+
 	.testimonial .featured-thumbnail img { width: auto !important; }
 
 	#sidebar #searchform input[type="text"] { width: 77%; }
 
-	
+
 	.list.numeric_list li { margin-bottom: 20px; }
 
-	.post-meta, .post-meta a, .post-meta time, .wrapMeta b a  { font-size: 10px; }	
+	.post-meta, .post-meta a, .post-meta time, .wrapMeta b a  { font-size: 10px; }
 
 
 
 	/*  ************************* blog pages style ******************/
 
 	#commentform textarea { width: 410px; }
-		
+
 	/*  **********************************************/
 
 	.blog #content article.post-holder .post-content {
 	  padding-left: 270px;
 	}
-	
+
 	.wrap_cf .wpcf7-form input[type="text"],
 	.wrap_cf .wpcf7-form input[type="email"],
 	.wrap_cf .wpcf7-form input[type="number"],
@@ -177,12 +186,12 @@
 	#beforeFooter div[id*="text"] img {
 	  margin-top: -37px;
 	}
-	
+
 	#beforeFooter h1, #beforeFooter h1 span a[href*="callto"] {
 		font-size: 21px;
 		line-height: 27px;
-	}	
-	
+	}
+
 /*  ****************************** BEFORE FOOTER CONTENT *****************/
 
 	#beforeFooter { padding-top: 30px; }
@@ -191,7 +200,7 @@
 		font-size: 32px;
 		line-height: 39px;
 	}
-	
+
 	#beforeFooter div[id*="text"] p {
 		font-size: 20px;
 		line-height: 27px;
@@ -201,7 +210,7 @@
 /*  ****************************** FOOTER ********************************/
 
 	#footer { font-size: 13px; }
-	
+
 	#footer a[href*="callto"] {
 		font-size: 22px;
 		line-height: 27px;

@@ -16,8 +16,8 @@
 	#logo { padding: 35px 35px; }
 
 	.home #logo {
-		padding: 15px 120px;
-		width: 140px;
+		padding: 15px 115px;
+		height: 140px;
 	}
 
 	nav.primary, #topnav {
@@ -70,6 +70,10 @@
 		.home #leftNavBlock li + li , .home #rightNavBlock li + li { margin-left: 0 !important; }
 
 
+	#sliderWrap .slides iframe {
+	  height: 360px;
+	  width: 770px;
+	}
 
 	#sliderWrap .metaslider .slides img {
 	  height: 360px;
