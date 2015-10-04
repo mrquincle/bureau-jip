@@ -8,8 +8,20 @@ image-position: right
 block-menu: false
 ---
 
-This is the base Jekyll theme. You can find out more info contact customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Wij, Elly van Driel en Geertje van Rossum vormen samen Bureau JIP.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+ 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Contactinformatie:
+
+Elly: 0623549707
+
+Geertje: 0648734230
+
+Adres: Korteweegje 49, 3247 BH Dirksland
+
+ 
+
+Zijn er onverhoopt klachten, stuur een mailtje naar info@bureaujip.nl.
+
+Kunnen wij u niet naar tevredenheid helpen, informeer bij onze beroepsvereniging de NFG.
