@@ -7,7 +7,7 @@ image2: methodieken_page2.jpg
 image-position: top
 ---
 
-# Methodieken
+# ![](/uploads/versions/plaatje-bij-methodieken---x----300-299x---.jpg)Methodieken
 
 Bureau JIP hanteert verschillende methodieken om met bepaalde ervaringen om te kunnen gaan. EMDR (Eye Movement Desensitization and Reprocessing), CGT (Cognitieve gedragstherapie), neurofeedback, KIES, axenroos, Helende verhalen, de [MatriXmethode](http://matrixmethodeinstituut.nl/) en Vriendenprogramma. Voor de volledigheid lichten we een aantal van deze methodes toe:
 
@@ -25,17 +25,8 @@ Kinderen In Echtscheiding Situaties (KIES) is een programma dat kinderen helpt o
 
 ## De Axenroos
 
-De Axenroos is afgeleid van de Roos van Leary. Het gaat erom dat kinderen ontdekken, dat je bijvoorbeeld soms als een schildpad kan reageren als je je bang voelt. Je trekt je dan terug. Andere kinderen vertonen bij een bang gevoel het gedrag van een steenbok: ze slaan en schoppen. Soms is het handig om initiatief te tonen, zoals een leeuw dat kan. Op een ander moment kan het gewoon handig zijn om als een kameel maar gewoon te volgen. Kinderen leren door middel van de Axenroos, dat alle gevoelens oké zijn, en dat bepaald gedrag soms handig is, en soms gewoon niet. 
+De Axenroos is afgeleid van de Roos van Leary. Het gaat erom dat kinderen ontdekken, dat je bijvoorbeeld soms als een schildpad kan reageren als je je bang voelt. Je trekt je dan terug. Andere kinderen vertonen bij een bang gevoel het gedrag van een steenbok: ze slaan en schoppen. Soms is het handig om initiatief te tonen, zoals een leeuw dat kan. Op een ander moment kan het gewoon handig zijn om als een kameel maar gewoon te volgen. Kinderen leren door middel van de Axenroos, dat alle gevoelens ok&eacute; zijn, en dat bepaald gedrag soms handig is, en soms gewoon niet.
 
 ## Helende verhalen
 
-Kinderen kunnen vaak niet goed verwoorden wat hen dwars zit. Ze geven wel regelmatig signalen af; druk gedrag, of juist teruggetrokken, buikpijn, hoofdpijn, bedplassen, faalangst...
-Een helend verhaal blijkt een kind heel goed te kunnen helpen.
-De kracht van zo'n verhaal ligt hierin, dat het kind zich identificeert met de hoofdpersoon van het verhaal. Het zal de oplossing, aangeboden in het verhaal toepassen in zijn eigen situatie.
-
-
-
-
-
-
-
+Kinderen kunnen vaak niet goed verwoorden wat hen dwars zit. Ze geven wel regelmatig signalen af; druk gedrag, of juist teruggetrokken, buikpijn, hoofdpijn, bedplassen, faalangst… Een helend verhaal blijkt een kind heel goed te kunnen helpen. De kracht van zo’n verhaal ligt hierin, dat het kind zich identificeert met de hoofdpersoon van het verhaal. Het zal de oplossing, aangeboden in het verhaal toepassen in zijn eigen situatie.
