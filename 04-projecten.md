@@ -17,7 +17,7 @@ In maart 2015 was het zo ver. De eerste exemplaren van de glossy kwamen van de d
 
 In dit boekje krijgt het `gescheiden kind’ de boodschap: Het is soms zo lastig om van het ene huis naar het andere te gaan. En jij blijft ok&eacute;. Bestel het bij Teachtools, of bij je boekhandel in de buurt.
 
-![](/uploads/versions/prinsje-zanseverius---x----250-250x---.jpg)
+![](/uploads/versions/prinsje-zanseverius---x----201-204x---.jpg)
 
  
 
@@ -39,4 +39,6 @@ Ook in Albani&euml; spelen de kinderen met grote mens-poppen en leren alles over
 
 ## Blijf met je pootjes van me af
 
-Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn. Vrienden van JIP.![](/uploads/versions/blijf-met-je-pootjes-van-me-af---x----250-250x---.jpg)
+Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn. Vrienden van JIP.
+
+![](/uploads/versions/blijf-met-je-pootjes-van-me-af---x----153-211x---.jpg)
