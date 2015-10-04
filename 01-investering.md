@@ -13,9 +13,9 @@ Bureau JIP is geregistreerd bij de NFG &eacute;n bij het SRBAG. Dat betekent dat
 
 De AGB-code van Bureau JIP is 90-50036.
 
-Klik hier voor de lijst van zorgverzekeraars die Bureau JIP (voor een deel) vergoeden.
+[Klik hier voor de lijst van zorgverzekeraars die Bureau JIP (voor een deel) vergoeden](https://www.de-nfg.nl/images/20150504%20NFG%20-%20overzicht%20verzekeraars.pdf).
 
-[https://www.de-nfg.nl/images/20150504%20NFG%20-%20overzicht%20verzekeraars.pdf](https://www.de-nfg.nl/images/20150504%20NFG%20-%20overzicht%20verzekeraars.pdf)
+ 
 
 BTW.nummer: NL8196.17.167.BO1
 

@@ -33,11 +33,7 @@ Wittig heeft een prachtige app gemaakt met tips en tools om op een mooie manier 
 
 ## Apenverhalen
 
-Doe mee en bestel een aap, die jou allerlei verhalen vertelt. Zie de blog van …**
-
-<address>(dit gaat er aan komen)</address>
-
-##  
+Doe mee en bestel een aap, die jou allerlei verhalen vertelt. Zie de blog van …(dit gaat er aan komen)
 
 ## Albani&euml;
 
