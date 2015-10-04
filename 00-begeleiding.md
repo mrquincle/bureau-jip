@@ -7,11 +7,7 @@ image2: begeleiding_page2.jpg
 image-position: top
 ---
 
-#  
-
 # Begeleiding
-
- 
 
 ![Begeleiding](/assets/images/img1.jpg){: .alignright.size-full}
 
