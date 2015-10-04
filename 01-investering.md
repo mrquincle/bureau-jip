@@ -21,6 +21,8 @@ Klik hier voor de lijst van zorgverzekeraars die Bureau JIP (voor een deel) verg
 
 BTW.nummer: NL8196.17.167.BO1
 
+##  
+
 ## Aftrekpost voor de inkomstenbelasting
 
 Onder de noemer Psychosociale hulpverlening/begeleiding kunnen de sessies bij de inkomstenbelasting opgevoerd worden, waardoor het ook voor mensen zonder vergoedingsmogelijkheden betaalbaar blijft.
