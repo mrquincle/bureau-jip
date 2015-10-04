@@ -25,3 +25,5 @@ Adres: Korteweegje 49, 3247 BH Dirksland
 Zijn er onverhoopt klachten, stuur een mailtje naar info@bureaujip.nl.
 
 Kunnen wij u niet naar tevredenheid helpen, informeer bij onze beroepsvereniging de NFG.
+
+ 
