@@ -9,7 +9,7 @@ image-position: left
 
 # Workshops
 
-## Voor ouders
+## Voor leerkrachten
 
 Wij helpen leerkrachten en andere professionals en leidinggevenden van sport- en jeugdverenigingen met het begeleiden van kinderen die het moeilijk hebben. Dit doen we door middel van gesprekken, tranenkoffers, trainingen op school, en teambijeenkomsten.
 
@@ -36,16 +36,17 @@ Tijdens deze bijeenkomsten geven wij een bijscholing, deskundigheidsbevordering 
 6. gedrag en identiteit (hoe maak je het verschil voor een kind)
 
 
-* Ouderavonden/Workshops
+Op ouderavonden verzorgen wij graag een lezing over faalangst en echtscheiding, zelfvertrouwen, pesten en autisme, wel of niet in de vorm van een workshop.
 
+*Tarief:  363 per workshop, exc. reiskosten. Elke workshop, teambijeenkomst wordt gegeven door twee personen.*
+
+## Voor ouders
 
 Op ouderavonden verzorgen wij graag een lezing over faalangst en echtscheiding, zelfvertrouwen, pesten en autisme, wel of niet in de vorm van een workshop.
 
- 
+*Tarief:  363 per workshop, exc. reiskosten. Elke ouderavond wordt gegeven door twee personen.*
 
-Tarief:  363 per workshop, exc. reiskosten. Elke workshop, ouderavond, teambijeenkomst wordt gegeven door twee personen.
-
-## Voor leerkrachten
+##  
 
 ## Voor jeugdleiders van (sport)verenigingen
 
