@@ -11,6 +11,8 @@ image-position: top
 
 # Begeleiding
 
+ 
+
 ![Begeleiding](/assets/images/img1.jpg){: .alignright.size-full}
 
 Bureau JIP begeleidt kinderen die, om wat voor reden dan ook, geremd worden in hun ontwikkeling.
