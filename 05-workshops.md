@@ -13,8 +13,7 @@ image-position: left
 
 Wij helpen leerkrachten en andere professionals en leidinggevenden van sport- en jeugdverenigingen met het begeleiden van kinderen die het moeilijk hebben. Dit doen we door middel van gesprekken, tranenkoffers, trainingen op school, en teambijeenkomsten. [*Lees hier over meer...*](/assets/downloads/workshop-scholen.pdf)
 
-* ### Schrijf je blij
-
+## Schrijf je blij
 
 Elke tweede vrijdag van de maand schrijven we aan de ronde tafel bij JIP. [*Lees meer..*](/assets/downloads/schrijven-aan-de-ronde-tafel.pdf)
 
