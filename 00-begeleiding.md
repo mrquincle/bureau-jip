@@ -9,7 +9,7 @@ image-position: top
 
 ![Begeleiding](/assets/images/img1.jpg){: .alignright.size-full}
 
-Bureau JIP begeleidt kinderen die, om wat voor reden dan ook geremd worden in hun ontwikkeling.
+Bureau JIP begeleidt kinderen die, om wat voor reden dan ook, geremd worden in hun ontwikkeling.
 
 Wij begeleiden kinderen die
 
