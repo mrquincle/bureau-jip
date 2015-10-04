@@ -19,19 +19,25 @@ In dit boekje krijgt het `gescheiden kind’ de boodschap: Het is soms zo lastig
 
 ![](/uploads/versions/prinsje-zanseverius---x----201-204x---.jpg)
 
- 
-
 ## Biebhuusje
 
-In Dirksland staat op het Korteweegje een Biebhuusje. Dat biebhuusje is gemaakt door leerlingen van de Prins Maurits, Middelharnis. Iedereen mag er boeken uithalen en later er weer terug zetten. 
+In Dirksland staat op het Korteweegje een Biebhuusje. Dat biebhuusje is gemaakt door leerlingen van de Prins Maurits, Middelharnis. Iedereen mag er boeken uithalen en later er weer terug zetten.
+
+![](/uploads/versions/biebhuusje-site---x----189-181x---.jpg)
 
 ## JIP-app
 
-Wittig heeft een prachtige app gemaakt met tips en tools om op een mooie manier om te gaan met het kind. 
+Wittig heeft een prachtige app gemaakt met tips en tools om op een mooie manier om te gaan met het kind.
+
+![](/uploads/versions/a4---x----250-354x---.jpg)
 
 ## Apenverhalen
 
-Doe mee en bestel een aap, die jou allerlei verhalen vertelt. Zie de blog van …
+Doe mee en bestel een aap, die jou allerlei verhalen vertelt. Zie de blog van …**
+
+<address>(dit gaat er aan komen)</address>
+
+##  
 
 ## Albani&euml;
 
