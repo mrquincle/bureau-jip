@@ -16,12 +16,12 @@ Wij helpen leerkrachten en andere professionals en leidinggevenden van sport- en
 * ### Gesprekken
 
 
-Wij counsellen leerkrachten en ouders, waarbij wij ook achtergrondinformatie kunnen verstrekken over gedragsproblemen en stoornissen en de manier van begeleiding van betreffende leerlingen.
+Wij counsellen leerkrachten en ouders, waarbij wij ook achtergrondinformatie kunnen verstrekken over gedragsproblemen en gevoelens en de manier van begeleiding van betreffende leerlingen.
 
-* ### Training voor groep 4 tot en met groep 8: "Ik ben een kei en jij bent een kei"
+* ### Training voor groep 4 tot en met groep 8: “Ik ben een kei en jij bent een kei”
 
 
-Door middel van deze training leren de leerlingen werken aan hun gevoel van eigenwaarde. Ze weten dan dat ze de moeite waard zijn. Op deze manier leren zij zichzelf en de ander te accepteren. 
+Door middel van deze training leren de leerlingen werken aan hun gevoel van eigenwaarde. Ze weten dan dat ze de moeite waard zijn. Op deze manier leren zij zichzelf en de ander te accepteren.
 
 * ### Teambijeenkomsten
 
@@ -29,14 +29,12 @@ Door middel van deze training leren de leerlingen werken aan hun gevoel van eige
 Tijdens deze bijeenkomsten geven wij een bijscholing, deskundigheidsbevordering over de volgende onderwerpen.
 
 1. faalangst (herkenning, wat kan je er aan doen)
-2. loyaliteit 
+2. loyaliteit
 3. gedeelde kinderen (gevolgen van echtscheiding voor de kinderen)
 4. zelfvertrouwen (hoe help ik die leerling een hogere zelfwaardering te krijgen)
 5. autisme (hoe help je het kind in de klas?)
 6. gedrag en identiteit (hoe maak je het verschil voor een kind)
 
-
-Op ouderavonden verzorgen wij graag een lezing over faalangst en echtscheiding, zelfvertrouwen, pesten en autisme, wel of niet in de vorm van een workshop.
 
 *Tarief:  363 per workshop, exc. reiskosten. Elke workshop, teambijeenkomst wordt gegeven door twee personen.*
 
@@ -46,8 +44,6 @@ Op ouderavonden verzorgen wij graag een lezing over faalangst en echtscheiding, 
 
 *Tarief:  363 per workshop, exc. reiskosten. Elke ouderavond wordt gegeven door twee personen.*
 
-##  
-
 ## Voor jeugdleiders van (sport)verenigingen
 
 ## Voor kerken
@@ -56,8 +52,7 @@ Op ouderavonden verzorgen wij graag een lezing over faalangst en echtscheiding, 
 
 ## Schrijf je blij
 
-Elke tweede vrijdag van de maand schrijven we aan de ronde tafel bij JIP. Je hoeft helemaal niet te kunnen schrijven, alleen je pen vasthouden is genoeg. Iedereen kan het! Leer deze vrijdagen, al schrijvende, je hoofd leeg te maken, te genieten van de mooie dingen en je te focussen op dingen die je zo graag wil. Zo schrijf je naar je toe. Ontdek dat schrijven je blij kan maken. Data: 11 september, 11 december 2015 Tijden: 9.30 uur tot 11.00 uur Kosten: 12 euro, inclusief twee consumpties
-Neem een fijne pen en een schrift mee. Je hoeft je niet op te geven. Check wel even vantevoren of de bijeenkomst niet gecanceld is.
+Elke tweede vrijdag van de maand schrijven we aan de ronde tafel bij JIP. Je hoeft helemaal niet te kunnen schrijven, alleen je pen vasthouden is genoeg. Iedereen kan het! Leer deze vrijdagen, al schrijvende, je hoofd leeg te maken, te genieten van de mooie dingen en je te focussen op dingen die je zo graag wil. Zo schrijf je naar je toe. Ontdek dat schrijven je blij kan maken. Data: we beginnen weer 11 december 2015.  Tijden: 9.30 uur tot 11.00 uur Kosten: 12 euro, inclusief twee consumpties. Neem een fijne pen en een schrift mee. Je hoeft je niet op te geven. Check wel even vantevoren of de bijeenkomst doorgaat.
 
 ## Cursus ‘emoties en gewicht’
 
