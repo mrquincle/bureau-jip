@@ -7,7 +7,11 @@ image2: methodieken_page2.jpg
 image-position: top
 ---
 
-> # ![](/uploads/versions/plaatje-bij-methodieken---x----300-299x---.jpg)Methodieken
+> #  
+>
+> # ![](/uploads/versions/plaatje-bij-methodieken---x----300-299x---.jpg)
+
+# Methodieken
 
 Bureau JIP hanteert verschillende methodieken om met bepaalde ervaringen om te kunnen gaan. EMDR (Eye Movement Desensitization and Reprocessing), CGT (Cognitieve gedragstherapie), neurofeedback, KIES, axenroos, Helende verhalen, de [MatriXmethode](http://matrixmethodeinstituut.nl/) en Vriendenprogramma. Voor de volledigheid lichten we een aantal van deze methodes toe:
 
