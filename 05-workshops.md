@@ -44,15 +44,11 @@ Op ouderavonden verzorgen wij graag een lezing over faalangst en echtscheiding, 
 
 *Tarief:  363 per workshop, exc. reiskosten. Elke ouderavond wordt gegeven door twee personen.*
 
-## Voor jeugdleiders van (sport)verenigingen
-
-## Voor kerken
-
-## Hartcoherentie
+##  
 
 ## Schrijf je blij
 
-Elke tweede vrijdag van de maand schrijven we aan de ronde tafel bij JIP. Je hoeft helemaal niet te kunnen schrijven, alleen je pen vasthouden is genoeg. Iedereen kan het! Leer deze vrijdagen, al schrijvende, je hoofd leeg te maken, te genieten van de mooie dingen en je te focussen op dingen die je zo graag wil. Zo schrijf je naar je toe. Ontdek dat schrijven je blij kan maken. Data: we beginnen weer 11 december 2015.  Tijden: 9.30 uur tot 11.00 uur Kosten: 12 euro, inclusief twee consumpties. Neem een fijne pen en een schrift mee. Je hoeft je niet op te geven. Check wel even vantevoren of de bijeenkomst doorgaat.
+Elke tweede vrijdag van de maand schrijven we aan de ronde tafel bij JIP. [*Lees meer..*](/assets/downloads/schrijven-aan-de-ronde-tafel.pdf)
 
 ## Cursus ‘emoties en gewicht’
 
