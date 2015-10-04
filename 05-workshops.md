@@ -13,17 +13,17 @@ image-position: left
 
 Wij helpen leerkrachten en andere professionals en leidinggevenden van sport- en jeugdverenigingen met het begeleiden van kinderen die het moeilijk hebben. Dit doen we door middel van gesprekken, tranenkoffers, trainingen op school, en teambijeenkomsten.
 
-* Gesprekken
+* #### Gesprekken
 
 
 Wij counsellen leerkrachten en ouders, waarbij wij ook achtergrondinformatie kunnen verstrekken over gedragsproblemen en stoornissen en de manier van begeleiding van betreffende leerlingen.
 
-* Training voor groep 4 tot en met groep 8: "Ik ben een kei en jij bent een kei"
+* #### Training voor groep 4 tot en met groep 8: "Ik ben een kei en jij bent een kei"
 
 
 Door middel van deze training leren de leerlingen werken aan hun gevoel van eigenwaarde. Ze weten dan dat ze de moeite waard zijn. Op deze manier leren zij zichzelf en de ander te accepteren. 
 
-* Teambijeenkomsten
+* #### Teambijeenkomsten
 
 
 Tijdens deze bijeenkomsten geven wij een bijscholing, deskundigheidsbevordering over de volgende onderwerpen.
