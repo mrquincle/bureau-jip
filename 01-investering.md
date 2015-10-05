@@ -9,13 +9,21 @@ image-position: top
 
 ## Zorgverzekeraars
 
+ 
+
+# Investering en vergoeding
+
+ 
+
+ 
+
+ 
+
 Bureau JIP is geregistreerd bij de NFG &eacute;n bij het SRBAG. Dat betekent dat verschillende ziektekostenverzekeraars de begeleiding (gedeeltelijk) vergoeden. Het registratienummer van het NFG is 5705146501. Zie de website van de NFG.
 
 De AGB-code van Bureau JIP is 90-50036.
 
 [Klik hier voor de lijst van zorgverzekeraars die Bureau JIP (voor een deel) vergoeden](https://www.de-nfg.nl/images/20150504%20NFG%20-%20overzicht%20verzekeraars.pdf).
-
- 
 
 BTW.nummer: NL8196.17.167.BO1
 
