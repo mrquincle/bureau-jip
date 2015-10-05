@@ -32,3 +32,7 @@ De Axenroos is afgeleid van de Roos van Leary. Het gaat erom dat kinderen ontdek
 ## Helende verhalen
 
 Kinderen kunnen vaak niet goed verwoorden wat hen dwars zit. Ze geven wel regelmatig signalen af; druk gedrag, of juist teruggetrokken, buikpijn, hoofdpijn, bedplassen, faalangst… Een helend verhaal blijkt een kind heel goed te kunnen helpen. De kracht van zo’n verhaal ligt hierin, dat het kind zich identificeert met de hoofdpersoon van het verhaal. Het zal de oplossing, aangeboden in het verhaal toepassen in zijn eigen situatie.
+
+## De 'Einstein-begeleiding'
+
+Sommige kinderen vinden de wereld knap ingewikkeld. Dan denk je die te begrijpen, is het net weer anders.&nbsp;*[Lees meer](/assets/downloads/einstein-begeleiding.pdf).*
