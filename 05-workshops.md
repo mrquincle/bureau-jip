@@ -11,7 +11,7 @@ image-position: left
 
 ## Voor leerkrachten
 
-Wij helpen leerkrachten en andere professionals en leidinggevenden van sport- en jeugdverenigingen met het begeleiden van kinderen die het moeilijk hebben. Dit doen we door middel van gesprekken, tranenkoffers, trainingen op school, en teambijeenkomsten. [*Lees hier over meer...*](/assets/downloads/workshop-scholen.pdf)
+Wij helpen leerkrachten en andere professionals en leidinggevenden van sport- en jeugdverenigingen met het begeleiden van kinderen die het moeilijk hebben. Dit doen we door middel van gesprekken, [tranenkoffers](/assets/downloads/tranenkoffers.pdf), trainingen op school, en teambijeenkomsten. [*Lees hier over meer…*](/assets/downloads/workshop-scholen.pdf)
 
 ## Schrijf je blij
 
