@@ -23,7 +23,7 @@ Neurofeedback is aanbevolen door de American Society of Pediatrics voor kinderen
 
 ## KIES
 
-Kinderen In Echtscheiding Situaties ([KIES](http://kiesvoorhetkind.nl)) is een programma dat kinderen helpt om om te gaan met de ingrijpende gebeurtenis die een echtscheiding voor ze kan zijn. Het kind staat centraal.&nbsp;*Meer over K.I.E.S. bij JIP.*
+Kinderen In Echtscheiding Situaties ([KIES](http://kiesvoorhetkind.nl)) is een programma dat kinderen helpt om om te gaan met de ingrijpende gebeurtenis die een echtscheiding voor ze kan zijn. Het kind staat centraal.&nbsp;*Meer over [K.I.E.S. bij JIP](/downloads/).*
 
 ## De Axenroos
 
