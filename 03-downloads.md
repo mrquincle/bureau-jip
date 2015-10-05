@@ -17,5 +17,5 @@ image-position: top
 * [K.I.E.S en gescheiden opvoeden](/assets/downloads/KIES_gescheiden_opvoeden.pdf)
 * [K.I.E.S en grootouders](/assets/downloads/KIES_grootouders.pdf)
 * K.I.E.S. en omgangsbegeleiding
-* zelfvertrouwen
+* [meer zelfvertrouwen na een duikervaring](/assets/downloads/ikkanveelmeerdanikdenk.pdf)
 * [Behandelovereenkomst](/assets/downloads/behandelovereenkomst_juli_2015.pdf)
