@@ -7,8 +7,6 @@ image2: investering_page2.jpg
 image-position: top
 ---
 
-## Zorgverzekeraars
-
  
 
 # Investering en vergoeding
