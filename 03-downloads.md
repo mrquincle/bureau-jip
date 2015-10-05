@@ -10,7 +10,7 @@ image-position: top
 # Hier kan je bestanden downloaden.
 
 * [coulancebrief](/assets/downloads/coulancebrief.pdf)
-* wat is hartcoherentie
+* [wat is hartcoherentie](/assets/downloads/hartfocus.pdf)
 * wat te doen bij examenstress
 * wat is EMDR
 * wat is K.I.E.S
@@ -19,5 +19,3 @@ image-position: top
 * K.I.E.S. en omgangsbegeleiding
 * zelfvertrouwen
 * [Behandelovereenkomst](/assets/downloads/behandelovereenkomst_juli_2015.pdf)
-
-
