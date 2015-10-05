@@ -13,7 +13,7 @@ image-position: top
 * [wat is hartcoherentie](/assets/downloads/hartfocus.pdf)
 * wat te doen bij examenstress
 * [wat is EMDR](/assets/downloads/emdrmagazine nr. 1.pdf)
-* wat is K.I.E.S
+* [wat is K.I.E.S](/assets/downloads/samenvatting-onderzoek-kies-voor-het-kind.pdf)
 * [K.I.E.S en gescheiden opvoeden](/assets/downloads/KIES_gescheiden_opvoeden.pdf)
 * [K.I.E.S en grootouders](/assets/downloads/KIES_grootouders.pdf)
 * K.I.E.S. en omgangsbegeleiding
