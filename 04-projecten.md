@@ -7,6 +7,8 @@ image2: projecten_page2.jpg
 image-position: left
 ---
 
+# Projecten
+
 ## Glossy
 
 In maart 2015 was het zo ver. De eerste exemplaren van de glossy kwamen van de drukker! … Downloaden? Klik op het plaatje.
