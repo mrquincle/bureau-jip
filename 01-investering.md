@@ -45,6 +45,8 @@ Elke sessie kost  60 euro. Duurt het gesprek langer dan 75 minuten dan krijgt 
 
 Heeft u een klacht, neem eerst contact op met ons. Wordt deze niet naar tevredenheid behandeld, reageer dan naar de beroepsvereniging NFG.
 
+<address>&nbsp;</address>
+
 <address>Als u een afspraak ruim een dag van tevoren afzegt, zijn de kosten van het gesprek niet voor u.</address>
 
 <address>Zegt u later af, om welke redenen dan ook, krijgt u van ons een factuur.</address>
