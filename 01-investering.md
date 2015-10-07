@@ -27,9 +27,9 @@ Onder de noemer Psychosociale hulpverlening/begeleiding kunnen de sessies bij de
 
 ## PGB
 
-AD(H)D, PDD-NOS
+AD(H)D, Autisme
 
-Met een DSM IV-verklaring die aangeeft dat uw kind AD(H)D, PDD-NOS heeft, kunt u in aanmerking komen voor een Persoonsgebonden Budget (PGB). Zie ook www.pgb.nl
+Met een verklaring die aangeeft&nbsp;dat uw kind een diagnose heeft van&nbsp;bijvoorbeeld AD(H)D of autisme, kunt u in aanmerking komen voor een Persoonsgebonden Budget (PGB). Zie ook www.pgb.nl
 
 ## Gemeente
 
