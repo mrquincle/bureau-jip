@@ -667,7 +667,7 @@ ul.sf-menu li li li.sfHover ul {
 
 .sf-menu li li:hover > a, .sf-menu li li.sfHover > a,
 .sf-menu li li > a:focus, .sf-menu li li > a:hover, .sf-menu li li > a:active, .sf-menu li li.current-menu-item > a {
-  color: #a0988b;
+  color: #4f8482;
   outline: 0;
 }
 
