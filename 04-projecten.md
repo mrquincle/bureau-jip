@@ -9,6 +9,14 @@ image-position: left
 
 # Projecten
 
+## &nbsp;
+
+## Vrienden van JIP
+
+De [Vrienden van JIP](http://vriendenvanjip.nl) maken verschillende projecten van JIP mogelijk.&nbsp;
+
+&nbsp;
+
 ## Glossy
 
 In maart 2015 was het zo ver. De eerste exemplaren van de glossy kwamen van de drukker! … Downloaden? Klik op het plaatje.
@@ -35,7 +43,7 @@ Wittig heeft een prachtige app gemaakt met tips en tools om op een mooie manier 
 
 ## Apenverhalen
 
-Doe mee en bestel een aap, die jou allerlei verhalen vertelt. [*Hier lees je zo'n apenverhaal over een aapje die klem zat tijdens de geboorte..*](/assets/downloads/aapje-in-het-bos-moeilijke-geboorte.pdf)
+Doe mee en bestel een aap, die jou allerlei verhalen vertelt. [*Hier lees je zo’n apenverhaal over een aapje die klem zat tijdens de geboorte..*](/assets/downloads/aapje-in-het-bos-moeilijke-geboorte.pdf)
 
 ## Albani&euml;
 
@@ -43,6 +51,6 @@ Ook in Albani&euml; spelen de kinderen met grote mens-poppen en leren alles over
 
 ## Blijf met je pootjes van me af
 
-Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn. Vrienden van JIP.
+Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn.&nbsp;
 
 ![](/uploads/versions/blijf-met-je-pootjes-van-me-af---x----153-211x---.jpg)
