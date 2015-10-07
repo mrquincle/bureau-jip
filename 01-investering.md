@@ -29,7 +29,7 @@ Onder de noemer Psychosociale hulpverlening/begeleiding kunnen de sessies bij de
 
 AD(H)D, Autisme
 
-Met een verklaring die aangeeft&nbsp;dat uw kind een diagnose heeft van&nbsp;bijvoorbeeld AD(H)D of autisme, kunt u in aanmerking komen voor een Persoonsgebonden Budget (PGB). Zie ook www.pgb.nl
+Met een verklaring die aangeeft&nbsp;dat uw kind een diagnose heeft van&nbsp;bijvoorbeeld AD(H)D of autisme, kunt u in aanmerking komen voor een Persoonsgebonden Budget (PGB). Zie ook [www.pgb.nl](http://www.pgb.nl)
 
 ## Gemeente
 
