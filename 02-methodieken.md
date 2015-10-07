@@ -21,7 +21,7 @@ Bureau JIP hanteert verschillende methodieken om met bepaalde ervaringen om te k
 
 ## EMDR
 
-EMDR (Eye Movement Densitization and Reprocessing) is een psychotherapie, ontwikkeld door Francine Shapiro, en bedoeld voor mensen en kinderen met traumatische ervaringen. Het is gebaseerd op de theorie dat bepaalde gebeurtenissen opgeslagen zijn in relatief geisoleerde gedeeltes in het brein. Het is niet wetenschappelijk vastgesteld hoe oogbewegingen therapeutisch resultaat oplevert, maar metastudies zijn zodanig positief dat de World Health Organization (in 2013) EMDR als een van de twee technieken voor trauma bij kinderen aanbeveelt (naast CGT, cognitieve gedragstherapie).
+EMDR (Eye Movement Densitization and Reprocessing) is een psychotherapie, ontwikkeld door Francine Shapiro, en bedoeld voor mensen en kinderen met traumatische ervaringen. Het is gebaseerd op de theorie dat bepaalde gebeurtenissen opgeslagen zijn in relatief geisoleerde gedeeltes in het brein. Het is niet wetenschappelijk vastgesteld hoe oogbewegingen therapeutisch resultaat oplevert, maar metastudies zijn zodanig positief dat de World Health Organization (in 2013) EMDR als een van de twee technieken voor trauma bij kinderen aanbeveelt (naast CGT, cognitieve gedragstherapie). [*Mooi voorbeeld.....lees hier.*](/assets/downloads/emdr.pdf)
 
 ## Neurofeedback
 
