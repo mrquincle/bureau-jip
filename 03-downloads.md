@@ -16,6 +16,6 @@ image-position: top
 * [wat is K.I.E.S](/assets/downloads/samenvatting-onderzoek-kies-voor-het-kind.pdf)
 * [K.I.E.S en gescheiden opvoeden](/assets/downloads/KIES_gescheiden_opvoeden.pdf)
 * [K.I.E.S en grootouders](/assets/downloads/KIES_grootouders.pdf)
-* K.I.E.S. en omgangsbegeleiding
+* [brief aan gescheiden ouders](/assets/downloads/aan alle gescheiden ouders.pdf)
 * [meer zelfvertrouwen na een duikervaring](/assets/downloads/ikkanveelmeerdanikdenk.pdf)
 * [Behandelovereenkomst](/assets/downloads/behandelovereenkomst_juli_2015.pdf)
