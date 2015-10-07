@@ -15,7 +15,7 @@ Wij helpen leerkrachten en andere professionals en leidinggevenden van sport- en
 
 ## Schrijf je blij
 
-Elke tweede vrijdag van de maand schrijven we aan de ronde tafel bij JIP. [*Lees meer..*](/assets/downloads/schrijven-aan-de-ronde-tafel.pdf)
+Elke tweede vrijdag van de maand schrijven we aan de ronde tafel bij JIP. *[Lees meer..](/assets/downloads/schrijven-aan-de-ronde-tafel.pdf).*en*......*Sarine Zijderveld schrijft er ook over. [*Lees erover in de Glossy.*](/assets/downloads/schrijfhetmooienaarjetoe.pdf)
 
 ## Cursus ‘emoties en gewicht’
 
