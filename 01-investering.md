@@ -7,11 +7,11 @@ image2: investering_page2.jpg
 image-position: top
 ---
 
- 
-
 # Investering en vergoeding
 
- 
+&nbsp;
+
+![](/uploads/versions/logo-nfg---x----152-98x---.jpg)![](/uploads/versions/logo_srbag---x----157-157x---.gif)
 
 Bureau JIP is geregistreerd bij de NFG &eacute;n bij het SRBAG. Dat betekent dat verschillende ziektekostenverzekeraars de begeleiding (gedeeltelijk) vergoeden. Het registratienummer van het NFG is 5705146501. Zie de website van de NFG.
 
