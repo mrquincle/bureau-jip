@@ -11,7 +11,7 @@ image-position: top
 
 * [coulancebrief](/assets/downloads/coulancebrief.pdf)
 * [wat is hartcoherentie](/assets/downloads/hartfocus.pdf)
-* wat te doen bij examenstress
+* [gevoelens en hartcoherentie](/assets/downloads/onzegevoelensenemoties.pdf)
 * [wat is EMDR](/assets/downloads/emdrmagazine nr. 1.pdf)
 * [wat is K.I.E.S](/assets/downloads/samenvatting-onderzoek-kies-voor-het-kind.pdf)
 * [K.I.E.S en gescheiden opvoeden](/assets/downloads/KIES_gescheiden_opvoeden.pdf)
