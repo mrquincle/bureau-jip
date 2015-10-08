@@ -553,8 +553,8 @@ li {
 /*  **************************************************/
 
 /* EasyTooltip */
-.tooltip {
-  background: none repeat scroll 0 0 #252525;
+.tooltip {1
+  background: none repeat scroll 0 0 #179999;
   border: 1px solid #000000;
   color: #EEEEEE;
   display: none!important;
