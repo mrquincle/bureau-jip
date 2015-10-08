@@ -25,7 +25,7 @@ BTW.nummer: NL8196.17.167.BO1
 
 ## Aftrekpost voor de inkomstenbelasting
 
-Onder de noemer Psychosociale hulpverlening/begeleiding kunnen de sessies bij de inkomstenbelasting opgevoerd worden, waardoor het ook voor mensen zonder vergoedingsmogelijkheden betaalbaar blijft.
+Onder de noemer Psychosociale hulpverlening/begeleiding kunnen de sessies bij de inkomstenbelasting opgegeven&nbsp;worden, waardoor het ook voor mensen zonder vergoedingsmogelijkheden betaalbaar blijft.
 
 ## PGB
 
@@ -43,7 +43,7 @@ Elke sessie kost  60 euro. Duurt het gesprek langer dan 75 minuten dan krijgt 
 
 ## Klacht
 
-Heeft u een klacht, neem eerst contact op met ons. Wordt deze niet naar tevredenheid behandeld, reageer dan naar de beroepsvereniging NFG.
+Heeft u een klacht, neem eerst contact op met ons. Wordt deze niet naar tevredenheid behandeld, reageer dan naar de beroepsvereniging [NFG](/assets/downloads/klachtenbrochure_nfg_web.pdf).
 
 <address>&nbsp;</address>
 
