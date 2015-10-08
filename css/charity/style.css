@@ -182,13 +182,13 @@ dl dd {
 #main h4 {
   padding: 0;
   letter-spacing: 0;
-  color: #96969a;
+  color: #26C9BB;
   font: 16px/22px 'Open Sans', sans-serif;
   text-transform: none;
   margin: 0 0 15px 0;
 }
 #main .excerpt h4 {
-  color: #96969a;
+  color: #26C9BB;
   font: bold 12px/18px 'Open Sans', sans-serif;
   letter-spacing: 0;
   margin: 0;
@@ -213,7 +213,7 @@ dl dd {
 #main h6 {
   padding: 0;
   letter-spacing: 0;
-  color: #fff;
+  color: #26C9BB;
   font: 300 22px/28px 'Open Sans', sans-serif;
   text-transform: inherit;
   margin: 0 0 5px 0;
