@@ -113,7 +113,7 @@ dl dd {
 /*  **************************************************/
 
 #main h2 {
-  color: #0fc4b5;
+  color: #2a3136;
   font: bold 24px/30px "Open Sans",sans-serif;
   margin-top: 27px;
   margin-bottom: 15px;
@@ -131,7 +131,7 @@ dl dd {
   margin: 0;
   border: none;
   display: block;
-  color: #0fc4b5;
+  color: #2a3136;
   text-align: left;
   font: bold 21px/25px 'Open Sans', sans-serif;
 }
@@ -141,7 +141,7 @@ dl dd {
 /*  **************************************************/
 
 #main h3, #main h3 a {
-  color: #0fc4b5;
+  color: #2a3136;
   display: inline-block;
   font: bold 14px/20px 'Open Sans', sans-serif;
   margin: 0 0 8px;
