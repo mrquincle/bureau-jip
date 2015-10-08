@@ -25,7 +25,9 @@ In maart 2015 was het zo ver. De eerste exemplaren van de glossy kwamen van de d
 
 ## Zanseverius
 
-In dit boekje krijgt het `gescheiden kind’ de boodschap: Het is soms zo lastig om van het ene huis naar het andere te gaan. En jij blijft ok&eacute;. Bestel het bij Teachtools, of bij je boekhandel in de buurt.
+In dit boekje krijgt het `gescheiden kind’ de boodschap: Het is soms zo lastig om van het ene huis naar het andere te gaan. En jij blijft ok&eacute;.
+
+Bestel het bij Teachtools, of bij je boekhandel in de buurt.
 
 ![](/uploads/versions/prinsje-zanseverius---x----201-204x---.jpg)
 
@@ -43,7 +45,7 @@ Wittig heeft een prachtige app gemaakt met tips en tools om op een mooie manier 
 
 ## Apenverhalen
 
-Doe mee en bestel een aap, die jou allerlei verhalen vertelt. [*Hier lees je zo’n apenverhaal over een aapje die klem zat tijdens de geboorte..*](/assets/downloads/aapje-in-het-bos-moeilijke-geboorte.pdf)
+Doe mee en bestel een aap, die jou allerlei verhalen vertelt. [*Hier lees je zo’n apenverhaal over een aapje dat&nbsp;klem zat tijdens de geboorte..*](/assets/downloads/aapje-in-het-bos-moeilijke-geboorte.pdf)
 
 ## Albani&euml;
 
